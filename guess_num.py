@@ -2,7 +2,7 @@ import random
 #for the first round of game
 play_again="yes"
 #checks condition after the first round based on user input. if "no"
-# , skips the entire loops and prints last statement.
+#  skips the entire loop and prints last statement.
 while play_again=="yes":
 
     secret_number= random.randint(1,100)

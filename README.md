@@ -1,4 +1,5 @@
-#Guess The Number Game
+#Guess The Number Game.
+
 This is a simple terminal based game built using Python.
 
 ##FEATURES

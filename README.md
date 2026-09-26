@@ -1,18 +1,18 @@
-#Guess The Number Game.
+# Guess The Number Game.
 
 This is a simple terminal based game built using Python.
 
-##FEATURES
+## FEATURES
 1. Terminal Generates  a random number
 2. Attempt Counter
 3. Appreciation awarded for each attempt
 4. Too high/Too low Prompter 
 5. Play again option 
 
-##TECHNOLOGY USED
+## TECHNOLOGY USED
 -Python
 
-##CONCEPTS USED
+## CONCEPTS USED
 - Import statement
 - Nested loop (While)
 - if-else-if statement
